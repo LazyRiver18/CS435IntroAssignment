@@ -2,10 +2,7 @@
 
 This is the take-home programming assignment for the Software Engineering Course
 
-I have imported os, Pillow, and BeautifulSoup for use in this project, but the code should compile as is. To run the code, when prompted, the user should input the path to the directory with the set of xml/png files.
-
-input example:
-"C://Users//purpl//OneDrive//Documents//William_and_Mary//Software_Engineering//CS435IntroAssignment//Programming-Assignment-Data//"
+I have imported os, Pillow, and BeautifulSoup for use in this project, but the code should compile as is. To run the code, the annotated.py file should be run. When prompted, the user should input the full path to the directory with the set of xml/png files (in the Programming-Assignment-Data folder) on their computer.
 
 Program Description:
 
